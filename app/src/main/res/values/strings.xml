@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BitFit</string>
+    <string name="add_new_entry">Add New Entry</string> <!-- Use this for the FAB's contentDescription -->
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_water_amount">Enter water amount (liters)</string>
+</resources>
